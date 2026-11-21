@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="HeatGuard">
+  <rect width="512" height="512" rx="112" fill="#fff3df"/>
+  <circle cx="256" cy="200" r="86" fill="#e35d24"/>
+  <g stroke="#e35d24" stroke-width="24" stroke-linecap="round">
+    <path d="M256 60v-30M256 370v-30M116 200H86M426 200h-30M160 104l-22-22M374 318l-22-22M352 104l22-22M138 318l22-22"/>
+  </g>
+  <path d="M256 286c48 36 86 46 120 46v66c0 52-45 88-120 112-75-24-120-60-120-112v-66c34 0 72-10 120-46Z" fill="#2f2a44"/>
+  <path d="M207 390l35 35 66-76" fill="none" stroke="#fff8ed" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

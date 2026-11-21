@@ -1,0 +1,18 @@
+{
+  "name": "HeatGuard",
+  "short_name": "HeatGuard",
+  "description": "A low-data heat-safety companion for market traders and outdoor workers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8ed",
+  "theme_color": "#8a2f14",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
